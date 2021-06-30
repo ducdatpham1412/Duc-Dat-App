@@ -6,6 +6,7 @@ const Env = () => {
     return (
         <View style={styles.container}>
             <Text>{MARVEL_API}</Text>
+            <Text>Helelel</Text>
         </View>
     );
 };
